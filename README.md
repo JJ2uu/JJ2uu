@@ -1,4 +1,4 @@
-
+<img src="images/dog-gf4c34f7df_1920.jpg" width=300></img>
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=JJ2uu)](https://github.com/JJ2uu)
 
