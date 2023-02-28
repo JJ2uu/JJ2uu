@@ -1,6 +1,6 @@
 #### Yujin's GitHub 😊
 ---
-### 🥇 My Project Most
+### 🥇 My Most Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJ2uu&layout=compact) <br>
 
 ### 📚 My Stacks
